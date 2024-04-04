@@ -3,6 +3,26 @@
 
 This is a command-line airline reservation system implemented in C programming language. It allows users to book flights, cancel reservations, and view current reservations.
 
+# Display Flights
+
+![Screenshot](1-df.png)
+
+# Book Flights
+
+![Screenshot](bf2.png)
+
+# Cancel Reservations
+
+![Screenshot](bf3.png)
+
+# View Reservations
+
+![Screenshot](bf4.png)
+
+# Exit
+
+![Screenshot](bf5.png)
+
 # Key Features
 
 - View available flights with details like flight number, origin, destination, capacity, and reserved seats.
