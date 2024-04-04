@@ -1,5 +1,6 @@
 # Flight_ticket_reservation_system
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+
 This is a command-line airline reservation system implemented in C programming language. It allows users to book flights, cancel reservations, and view current reservations.
 
 # Key Features
